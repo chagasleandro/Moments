@@ -19,6 +19,36 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.3.
 
+## :rocket: Technologies ##
+
+<p>This project was developed using the following technologies:</p>
+
+<img  alt="ANGULAR"
+     src="https://img.shields.io/badge/ANGULAR-E34F26?style=for-the-badge&logo=angular&logoColor=white"/>
+<img alt="HTML"
+      src="https://img.shields.io/badge/html-%231572B6.svg?style=for-the-badge&logo=html&logoColor=white"/>
+<img alt="SCSS"
+      src="https://img.shields.io/badge/scss-%231572B6.svg?style=for-the-badge&logo=scss&logoColor=white"/>
+<img alt="TypeScrit"
+      src="https://img.shields.io/badge/typescript-%231572B6.svg?style=for-the-badge&logo=tpescript&logoColor=white"/>
+
+## :white_check_mark: Requirements ##
+
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [ANGULAR](https://angular.io/guide/setup-local) installed.
+
+## :checkered_flag: Starting ##
+```bash
+# cloning this repository
+$ git clone https://github.com/chagasleandro/Moments.git
+# Acces
+$ cd Moments
+# Install dependencies
+$ npm install
+# Run the project
+$ ng serve -o
+# The server will initialize in the <https://localhost:4200>
+```
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
